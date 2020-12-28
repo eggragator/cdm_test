@@ -8,31 +8,31 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://www.libraries.wichita.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo/psychiana
+baseurl: /exhibits
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder
+source-code: https://github.com/eggragator/cdm_test
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Test of Collection Builder CDM
+title: WuShock Through the Years
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Tagline for Exhibit
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s." 
+description: In this collection our feisty mascot WuShock is depicted in images selected from the University Archives. WSU's sports teams were known as the Wheatshockers as early as 1904 when the football team took on the name due to many of its players working on farms shocking or harvesting wheat during the summer.  The nickname came to life in 1948 when the WuShock character was created. 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest 
+keywords: wushock;wichita state university 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Special Collections and University Archives
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Wichita State University Libraries"
+organization-link: https://www.libraries.wichita.edu
+organization-logo-banner: https://libapps.s3.amazonaws.com/sites/355/banner/header.jpg
+organization-logo-nav: https://cdm15942.contentdm.oclc.org/customizations/global/images/WSU_naming_unit_1C_221_white.png
 
 
 ##########
